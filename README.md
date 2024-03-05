@@ -21,14 +21,14 @@ Este é um sistema de leilão implementado em Python, onde os usuários podem pa
 git clone https://github.com/seu-usuario/sistema-leilao.git
 ```
 
-## 1. Certifique-se de ter o Python instalado em sua máquina.
+2. Certifique-se de ter o Python instalado em sua máquina.
 
-## 2. Execute o arquivo principal do sistema:
+3. Execute o arquivo principal do sistema:
 
 ```bash
 python main.py
 ```
-## 3. Siga as instruções apresentadas no console para interagir com o sistema de leilão.
+4. Siga as instruções apresentadas no console para interagir com o sistema de leilão.
 
 # Teste Unitários 
 
