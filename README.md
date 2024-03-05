@@ -32,8 +32,12 @@ python main.py
 
 # Teste Unitários 
 
-## O sistema possui testes unitários para garantir o correto funcionamento das principais funcionalidades. Para executar os testes, utilize o seguinte comando:
+O sistema possui testes unitários para garantir o correto funcionamento das principais funcionalidades. Para executar os testes, utilize o seguinte comando:
 
 ```bash
 python -m unittest
 ```
+
+# Contribuições 
+
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
